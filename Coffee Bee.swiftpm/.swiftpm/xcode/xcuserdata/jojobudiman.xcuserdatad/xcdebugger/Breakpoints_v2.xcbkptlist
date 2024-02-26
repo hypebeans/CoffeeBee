@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "32FB29BF-D6C9-4BDD-8B92-2427A0D3FFC1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56C52825-5471-4A79-9928-2A1694C31A33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Model/CoffeeContent.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "56C52825-5471-4A79-9928-2A1694C31A33 - 2f71f4c18cc495b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coffee_Bee.espresso.unsafeMutableAddressor : Coffee_Bee.Page"
+                  moduleName = "Coffee Bee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jojobudiman/Documents/Xcode/Coffee%20Bee.swiftpm/Model/CoffeeContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "56C52825-5471-4A79-9928-2A1694C31A33 - d1d4656f53e0edea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for espresso"
+                  moduleName = "Coffee Bee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jojobudiman/Documents/Xcode/Coffee%20Bee.swiftpm/Model/CoffeeContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  uuid = "56C52825-5471-4A79-9928-2A1694C31A33 - c08917ea16bdb4ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coffee_Bee.createCoffee(from: Coffee_Bee.CoffeeViews) -&gt; Coffee_Bee.Coffee"
+                  moduleName = "Coffee Bee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jojobudiman/Documents/Xcode/Coffee%20Bee.swiftpm/Model/CoffeeContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
